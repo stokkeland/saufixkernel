@@ -9,7 +9,11 @@
 #
 # No guarantees, use at own risk for testing only, never use in production environment
 # If you are thinking of actually running this, ALWAYS do list first before purge
+#
 # Originally written for Ubuntu 22.04 LTS
+#  has been tested on Ubuntu 20.04 LTS and appears fine there, just need to change that
+#  variable below - or if you dare, remove the check of version
+#
 # This is bloated and not ver elegant, it started as a simple list and evolved a bit at 
 # the time over the years, feel free to sunmit elegance updates/pull-req
 #
