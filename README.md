@@ -1,4 +1,9 @@
 # saufixkernel
+
+NOTE: This project will be assimilated into my other ubuntu-helper project
+      https://github.com/stokkeland/sau-ubuntu-stuff
+      Then this will be archived
+
 A simple script to purge old kernels for apt based distros (Ubuntu)
 
 For version and Usage info please see the script source
