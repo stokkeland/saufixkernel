@@ -1,3 +1,7 @@
+NOTE October 2024:  This repo is no longer maintained, this script was renamed and included in 
+https://github.com/stokkeland/sau-ubuntu-stuff/blob/main/sau-old-kernel-purge
+
+
 # saufixkernel
 
 NOTE: This project will be assimilated into my other ubuntu-helper project
